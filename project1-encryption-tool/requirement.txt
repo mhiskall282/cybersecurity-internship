@@ -1,0 +1,31 @@
+# Machine Learning and AI
+numpy
+pandas
+scikit-learn
+tensorflow
+keras
+torch
+matplotlib
+seaborn
+
+# Cybersecurity
+scapy
+requests
+beautifulsoup4
+paramiko
+cryptography
+PyYAML
+python-nmap
+socket
+
+# Blockchain
+web3
+pycryptodome
+ethereum
+eth-utils
+
+# Ethical Hacking
+metasploit-framework
+sqlmap
+dnspython
+furl
